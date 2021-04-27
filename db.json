@@ -4,13 +4,19 @@
       "id": 2,
       "text": "clean car",
       "day": "Feb 25th at 4:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
-      "text": "Take Rona test",
-      "day": "23 June at 3pm",
-      "reminder": false,
-      "id": 3
+      "text": "worm pills for dog",
+      "day": "30 April at 11am",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "morning run ",
+      "day": "27 April at 9am",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
